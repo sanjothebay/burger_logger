@@ -7,5 +7,5 @@ var connection = require("../config/connection.js");
 
 // updateOne();
 
-// Export the orm object for the model (cat.js).
+// Export the orm object for the model (burger.js).
 module.exports = orm;
